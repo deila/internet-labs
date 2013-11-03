@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+
+<title>Новая Книга - Каталог Книг</title>
+
+<h1>Новая книга</h1>
+
+<form method="post" action="book_create.php">
+
+  <div class="fieldset">
+
+    <div class="field">
+      <label for="title">Заголовок</label>
+      <input id="title" name="book[title]" type="text" />
+    </div>
+
+    <div class="field">
+      <label for="theme">Тематика</label>
+      <select id="theme" name="book[theme]">
+        <option>Художественная литература</option>
+        <option>Техническая литература</option>
+        <option>Справочник</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="author">ФИО автора(ов)</label>
+      <input id="author" name="book[author]" type="text" />
+    </div>
+
+    <div class="field">
+      <label for="year">Год издания</label>
+      <select id="year" name="book[year]">
+      </select>
+      <script>
+        // Скрипт для наполнения всевозможными годами
+        var min = -3000,
+        max = 2014,
+        select = document.getElementById('year')
+        for (var i = max; i >= min; --i) {
+          var opt = document.createElement('option')
+          opt.value = i
+          opt.innerHTML = i
+          select.appendChild(opt)
+        }
+      </script>
+    </div>
+
+    <div class="field">
+      <label for="publisher">Издательство</label>
+      <input id="publisher" name="book[publisher]" type="text" />
+    </div>
+
+  </div>
+
+  <div class="actions">
+    <input type="submit" name="create" value="Создать книгу" />
+    <input type="reset" name="reset" value="Сброс" />
+  </div>
+
+</form>
+
