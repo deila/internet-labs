@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<meta encoding="utf-8">
+<meta charset="utf-8">
 
 <h1> <title> Демиденко И. - Вступ в Інтернет </title> </h1>
 
