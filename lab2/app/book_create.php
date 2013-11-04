@@ -20,6 +20,7 @@ function book($field) {
 }
 
 function get_id() {
+  global $db;
   //$expire = time() + 10 * 60; // 10 minutes
   //if (!isset($_COOKIE['book_max_id'])) {
   //  $book_max_id = 1;
