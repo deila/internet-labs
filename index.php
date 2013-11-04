@@ -1,3 +1,11 @@
+<?php
+
+// credentials for postgresql:
+// user: oqrumqpncfashq
+// password: eJELg0DRaMMIIGoUsGV02QO1cr
+
+?>
+
 <!DOCTYPE html>
 
 <meta charset="utf-8">
