@@ -18,5 +18,6 @@
 
 <ol>
 <li><a href="/lab1">Вход</a> | <a href="https://github.com/deila/internet-labs/tree/master/lab1">Код</a></li>
+<li><a href="/lab2/app">Вход</a> | <a href="/lab2/pgadmin">pgadmin</a> | <a href="https://github.com/deila/internet-labs/tree/master/lab2">Код</a></li>
 </ol>
 
