@@ -10,7 +10,7 @@ td {
 
 <?php
 
-require '../vendor/autoload.php';
+require '/app/www/lab3/vendor/autoload.php';
 
 $url = 'http://finance.i.ua/fuel';
 $html = file_get_html($url);
