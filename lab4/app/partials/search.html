@@ -1,0 +1,13 @@
+<div ng-include="'partials/navbar.html'"></div>
+
+<h1>Search</h1>
+
+<input type="search" ng-model="query">
+
+<ul class="books">
+  <li ng-repeat="book in books | wordSearch:query:search | orderBy:'-score'">
+    <p><a href={{book.url}}>{{book.most}}</a></p>
+    <p>{{book.hits}}</p>
+  </li>
+</ul>
+

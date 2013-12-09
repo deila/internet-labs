@@ -1,0 +1,21 @@
+- TODO: 5 min [OK]
+- download ~200 random books 30 min [OK]
+- interface:
+  * topbar (Home, Polls, )earch) 10 min [OK]
+  * detect name mechanism for text 10 min [OK]
+  * search, search results (pseudo?) 30 min [OK] 3hrs !!!
+    - indexing by words [OK]
+    - search [OK]
+  * text viewer 15 min [OK]
+  * download button 5 min
+  * vk auth 10 min
+  * vk comments in text viewer 10 min
+  * vk community 10 min
+  * vk like it, recommend it 10 min
+  * vk polls 15 min
+  * vk subscribe 10 min
+
+---
+
+135 mins = 2 hours 15 min
+
