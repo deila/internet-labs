@@ -1,0 +1,2520 @@
+
+I 
+
+
+
+p" 
+
+
+
+LIBRARY OF 
+.ESLEY COLLEGE 
+
+
+
+
+PURCHASED FROM 
+
+
+
+SHAW FUND 
+
+
+
+Arrf. Si)[- 
+
+
+
+^02^81 
+
+
+
+REALLEXIKON DER 
+MUSIKINSTRUMENTE 
+
+
+
+C U RT SACHS 
+
+REAL-LEXIKON 
+
+DER 
+
+MUSIKINSTRUMENTE 
+
+zugle ich 
+
+ein Polyglossar rur aas gesamte 
+InstrumentengfeDiet 
+
+Mit 200 Ahhildungen 
+
+
+
+
+IM VERLAG VON JULIUS BARD / BERLIN 
+
+1913 
+
+
+
+Druck von 
+
+Oscar Brandstetter 
+
+Leipzig 
+
+
+
+VORWORT 
+
+Dies Werk stellt den ersten Versuch dar, den gesamten Stoff der 
+musikalischen Instrumentenkunde in enzyklopädischer Form zu- 
+sammenzufassen. Zu seiner Einführung habe ich nicht viel voraus- 
+zuschicken ; die Besonderheiten in der Gestaltung der lexikcdischen Form 
+wird der Leser schnell verstehen. Für den jeweiligen Umfang in der Be- 
+handlung der Realien war nicht die Wichtigkeit der einzelnen Instru- 
+mente allein maßgebend; der Verfasser glaubte sich im Gegenteil überall 
+da kürzer fassen zu müssen, wo eine umfangreiche monographische Lite- 
+ratur existiert, um den verfügbaren Raum den weniger gut bedachten 
+Instrumenten zukommen zu lassen. Das gilt z. B. von Artikeln, wie 
+Klavier, Orgel, Violine. Mit dem Ziel vor Augen, dieses Nachschlagewerk 
+so bequem benutzbar wie nur irgend möglich zu machen, wurde es vor 
+aUem auf eine recht große Anzahl Schlagwörter, also Einzelartikel abge- 
+sehen; deshalb ist die verhältnismäßige Kürze vieler Abschnitte nur schein- 
+bar. Der Benutzer wird dafür gern eine Zerreißung der dem Begriffe 
+nach übergeordneten Artikel in Kauf nehmen, da durch übersichtliche 
+Verweisungen im Notfall aüles Zusammengehörige rasch wird gefunden 
+werden können. Bei der wortmäßigen Anlage des vorhegenden Werkes 
+wäre zu befürchten, daß über den Instrumenten und Mechaniken, deren 
+Namen uns bekannt sind, diejenigen zu kurz kommen könnten, deren 
+Namen wir nicht kennen oder die überhaupt keinen besitzen. Ich habe 
+dieser Gefahr dadurch zu begegnen gesucht, daß die Anonyma in den 
+Artikeln der nächstverwandten Gegenstände mit erwähnt werden. 
+
+Auf das Sprachhche ist mit Rücksicht auf die hohe Bedeutung des 
+Philologischen für die Instrumentenwissenschaft besonderer Wert gelegt 
+worden. Soweit es mir angezeigt schien, habe ich alle erreichbaren Namen 
+von Instrumenten und Instrumententeilen gebucht, um auch da, wo ein 
+augenblicklicher Nutzen fürlnstrumentenkunde und vergleichendeSprach- 
+
+
+
+VORWORT 
+
+forschung nicht zu ziehen ist, künftigen etymologischen und musikolo- 
+gischen Arbeiten die Bahn zu ebenen. Eine große Schwierigkeit machte 
+die einheithche Transkription der Wörter aus denjenigen Sprachen, die 
+sich nicht unserer Schrift bedienen. Falsche und ungenügende Umschrei- 
+bungen, wie sie heute noch in fast allen Arbeiten zur Instrumentenkunde, 
+namentüch in Sammlungskatalogen, begegnen, sind nicht nur Schönheits- 
+fehler, sondern auch bedenkliche sachliche Fehlerquellen. Aus einem 
+Wort und Instrument werden unter Umständen durch abweichende und 
+mißverständliche Transkriptionen mehrere, oder mehrere Begriffe werden 
+in einen zusammengeworfen. Ein Beispiel nur. Das Zeichen CH, das 
+schon im Deutschen zwei verschiedene Bedeutungen hat, entspricht im 
+Englischen unserm TSCH, im Französischen unserm SCH, im Italienischen 
+unserm K, vertritt also, von feineren Nuancen abgesehen, fünf Laute; 
+dazu kommen noch besondere Transkriptionstraditionen, wie z. B. die 
+enghsche, im Chinesischen durch CH sowohl den TSCH- als auch den 
+K-Laut auszudrücken und in den nordindischen Sprachen den TSCH-Laut 
+mit C, mit CH dagegen den TSCHH-Laut wiederzugeben. Was ist in 
+jedem einzelnen Falle gemeint? Ein Italiener z. B. transkribiert ein chi- 
+nesisches K mit CH, ein Franzose übernimmt es buchstäblich von ihm 
+und ein Engländer, der des Franzosen Quelle nicht kennt, ersetzt, da er 
+glaubt, es handele sich um eine französische Umschreibung, das CH durch 
+sein SH ! Das sind Dinge, die sich täglich abspielen, denen der Forscher 
+auf Schritt und Tritt begegnet. So wird es möglich, daß man etwa beim 
+Antreffen der Schreibung Cheng im Unklaren sein kann, ob das Blas- 
+instrument Seng (Scheng) oder das Saiteninstrument Ceng (Tscheng) ge- 
+meint ist. Der Verfasser hat versucht hier mit ordnender Hand einzu- 
+greifen. Alle Namen sind streng im Anschluß an ihre heimische Ortho- 
+graphie übertragen, soweit es mit den Zeichen unseres Alphabets und den 
+paar üblichen diakritischen Zeichen durchführbar war. Mehrdeutige 
+Zeichen wie CH und J sind grundsätzlich ausgeschlossen und dafür die 
+nicht mißzuverstehenden, den Gelehrten aller Nationen bekannten Zeichen 
+C, G, S, Z eingeführt, S für das scharfe S, Z für das weiche. Eine Grenze 
+fand dies Verfahren nur bei der Benutzung von Quellen, die eine sprach- 
+
+
+
+VI 
+
+
+
+VORWORT 
+
+liehe Nachprüfung nicht gestatteten, wie etwa bei den schriftlosen Idiomen, 
+oder in Fällen starker Tradition, z . B . dem malayischen tj . Auch in einigen 
+anderen Fällen war eine absolute Übereinstimmung nicht gut durchführbar ; 
+so wurde z. B. im Gegensatz zu der sonst von uns verwendeten Umschrei- 
+bung N für das gutturale N in den Sprachen des chinesischen Kulturkreises 
+die meist gebräuchliche, aber unwissenschaftliche NG beibehalten, um die 
+bei isolierenden Sprachen nahehegenden Verwechselungen — etwa k'in 
+mit k'iri — zu vermeiden. 
+
+Neben dem allgemeinen Wunsch, daß diese Enzyklopädie die Ent- 
+wicklung der Instrumentenkunde und der ihr benachbarten Wissen- 
+schaften fördern möge, habe ich noch den besonderen, daß die von mir ge- 
+gebenen Namensformen angenommen und indieLiteratur eingeführt werden 
+möchten. Mit der bisherigen nachlässigen Willkür geht es nicht weiter; 
+je länger sie die Herrschaft hat, um so schwerer werden die Folgen sein. 
+
+— Zum Schluß nehme ich gern Veranlassung, einigen Persönhchkeiten 
+warm zu danken, die diese Arbeit durch ihr tätiges Interesse unterstützt 
+haben: Herrn Prof. Dr. L. Lewin, der mich auf eine Anzahl mir unbe- 
+kannter Reisebeschreibungen aufmerksam machte, Fräulein Alicja Simon, 
+die mir einige polnische Quellen erschlossen hat, den Herren Prof. 
+Dr. Grünwedel, Prof. Dr. Müller und Prof. Dr. Seier, Direktoren am Kgl. 
+Museum für Völkerkunde zu Berlin, und Geh. Reg. Rat. Prof. Dr. Kretz- 
+schmar, Direktor der Kgl. akademischen Hochschule für Musik zu Char- 
+lottenburg, die mir die Aufnahme von Zeichnungen in den ihnen unter- 
+stellten Sammlungen bereitwilligst gestatteten, und meiner Frau, der ich 
+für ihre unermüdhche Hilfe beim Korrekturlesen verpflichtet bin. Viele 
+Anregungen aus gemeinsamem Arbeiten mit Herrn Dr. E. M. v. Horn- 
+bostel konnten noch der letzten Feilung an diesem Werk zugute kommen. 
+
+Die Schreibung der afrikanischen Namen ist von Herrn Bernhard 
+Struck in Dresden durchgesehen worden. Die Zeichnungen in den öffent- 
+lichen Sammlungen wmden von Herrn Wilhelm v. d. Steinen, die in 
+meiner eigenen von Herrn Hübsch angefertigt. 
+
+Berlin Dr. Curt Sachs 
+
+
+
+DIE ABGEKÜRZT ZITIERTE 
+ALLGEMEINE INSTRUMENTEN- 
+UND MUSIKWISSENSCHAFTLICHE 
+
+LITERATUR 
+
+
+
+Aalst, J. A. van, Chinese Miisic. Shanghai 1884. 
+Adlung, J., Musica mechanica organoedi. Berhn 1768. 
+Advielle, V., La Musique chez les Persans an 1885. Paris 1885. 
+Agricola, M., Musica instrumentalis deudsch. Wittenberg 1529 etc. 
+Altenburg, J.E., Versuch einer Anleitung zur heroisch-musikalischen Trompeter- 
+
+und Pauker-Kunst. Halle 1795. 
+Amiot, Le Pere, Memoires concernant l'histoire, les sciences, les arts . . . des Chinois. 
+
+Paris 1780. Vol. VI. 
+AMZ = Allgemeine musikalische Zeitung, Leipzig 1798 ff. 
+Andries, J., Apergu th^orique de tous les Instruments de Musique, actuellement 
+
+en usage. Gand 1856. 
+Ankermann, Bemh., Die afrikanischen Musikinstrumente, Leipz. Diss. o. J. 
+Armstrong, R. B., English and Irish Instruments. Edinburgh 1908. 
+Bach-Jahrbuch. Leipzig 1904 ff. 
+
+Baker, Th., Über die Musik der nordamerikanischen Wilden. Diss. Leipzig 1882. 
+Balfour, H., Report an a collection of Musical Instruments from the Siamese 
+
+Malay states and Perak, in Fasciculi Malayenses, Anthropology, Part IIa, 
+
+Liverpool 1904. 
+Balfour, H., The Natural History of the Musical Bow. Oxford 1899. 
+Balfour, Fr. Dr. = Balfour, H., The Friction-Drum in Jour. Roy. Anthropol. 
+
+Inst. XXXVII. 1907. 
+Bartholinus, C, De tibiis veterum. Amstelodami 1679. 
+Berlioz, Hector, Instrumentationslehre. Erg. und rev. von R. Strauss, Leipzig 
+
+1905. 
+Bermudo, J ., Declaracion de instrumentos musicales, Ossuna 1555. 
+Bertez^n, Salvatore, Principj di musica teorico-prattica.- Roma 1780. 
+Bertolotti, A., La Musica in Mantova, Milano s.a. 
+
+Bierdimpfl, K. A., Die Sammlung der Musikinstrumente des baierischen National- 
+museums. München 1883. 
+
+
+
+IX 
+
+
+
+ALLGEMEINE INSTRUMENTEN- UND MUSIKWISSENSCHAFTLICHE LITERATUR 
+
+Bonanni, F., Gabinetto armonico. Roma 1722. 
+
+Botte de Toulmon, A., Diss. sur les Instruments de Musique au Moyen-äge. 
+Annales archeol. de Didronlll; Mem. de la soc. Roy. des Antiquaires de 
+France, Nouv. serie XVII. 
+
+Brossard, S. de, Dictionnaire de Musique. Paris 1703. 
+
+Bürchner, L., Griechische Volksweisen, SIMG III. 
+
+Buhle, E., Die musikalischen Instrumente in den Miniaturen des frühen Mittel- 
+alters. Lpz. 1903. 
+
+Cäcilia, Eine Zeitschrift für die musikalische Welt. Mainz 1824 ff . 
+
+Campbell, Notes on the Musical Instruments of the Nepalese, in Tagore's Hindu 
+Music. 
+
+Catalogue of the Crosby Brown Collection of Musical Instruments. 4 vol. New- 
+York 1904/05. 
+
+Cerone, P., El Melopeo y Maestro. Napoles 1613. 
+
+Chouquet, G., Le Musee du Conservatoire National de Musique. Catalogue descr. 
+et raisonn6. Paris 1884. Supplements par L. Pillaut, Paris 1894, 1899, 1903. 
+
+Christ ianowitsch, M., Esquisse bist, de la Musique arabe. Cologne 1863. 
+
+Comettant, 0., Histoire d'un inventeur au dix-neuvieme siecle, Adolphe Sax. 
+Paris 1860. 
+
+Couwenbergh, H. v., L'Orgue ancien et moderne. Lierre s. a. 
+
+Davy, J., Music of Ceylon, in Tagore's Hindu Music. 
+
+Day, C. R., The Music and Musical Instruments of Southern India. London 189 1. 
+
+(Day), A Descriptive Catalogue of the Musical Instruments recently exhibited at 
+the Roy. Military Exhibition, London 1890. London 1891. 
+
+Eisel, J. Th., Musicus autodidactus. Erfurt 1738. 
+
+Engel, C, Descriptive catalogue of the Musical Instruments in the South Ken- 
+sington Museum, London 1870. 
+
+Engel, Carl, The Music of the most Ancient Nations. 2"^ ed. London 1909. 
+
+Envallsson, C, Svenskt musikaliskt Icxikon. Stockholm 1802. 
+
+E uting, E., Zur Geschichte der Blasinstrumente im 16. und 17. Jahrhundert. Diss. 
+Berlin 1899. 
+
+F^tis, (Exposition univ. de Paris 1855) Fabrication des Instruments de Musique. 
+Paris 1855. 
+
+F^tis, (Rapp. du Jury International de l'Exposition universelle de 1867 ä Paris). 
+Instruments de Musique. Paris 1867. 
+
+Ferkel, Job. Nie, Musikalisch-kritische Bibliothek, Gotha 1778/79, 3 Bde. 
+
+Francceur,L.-J., Diapason g6n6ral de tous les Instruments ä vent. Paris (1792). 
+
+French, P. T., Catalogue of Indian Musical Instruments, in Tagore's Hindu Music. 
+
+Fressl, J., Die Musik des baierischen Landvolkes. München 1888. 
+
+Galilei, Vinc, Dialogo della musica antica e modema, Fiorenza 1581. 
+
+
+
+X 
+
+
+
+ALLGEMEINE INSTRUMENTEN- UND MUSIKWISSENSCHAFTLICHE LITERATUR 
+
+Galpin, F. W., Old English Instruments of Music, London 1910. 
+
+Gerber, A. L. = Gerber, Ernst Ludw., Hist.-biogr. Lexicon der Tonkünstler, 
+Leipzig 1790. 
+
+Gerber, N. L. = Gerber, E. L., Neues hist.-biogr. Lexikon der Tonkünstler, Leip- 
+zig 1812/13. 
+
+Gerbert, M., De cantu et musica sacra. S. Blasii 1774. 
+
+Gerbert, M., Scriptores ecclesiastici de musica. St. Blasien 1784. 
+
+Gevaert, F. A., Nouveau Traite d'Instrumentation. Paris 1885. 
+
+Gressmann, H., Musik und Musikinstrumente im Alten Testament. (Religions- 
+Igeschichtliche Versuche und Vorarbeiten II) Gießen 1903. 
+
+Groneman, J., De Gamelan te Jogjäkartä. Amsterdam 1890. 
+
+Grove, G., Dictionary of Music and Musicians, ed. by Fuller-Maitland. London 
+1904 ff. 
+
+Guarinoni, E. de, Gli strumenti musicali nel Museo del Conservatorio di Milano. 
+Milano (1908). 
+
+Hammerich, A., Musikhistorisk Museum. Katalog. Kebenhavn 1909. Deutsche 
+Ausgabe Kopenhagen 191 1. 
+
+Hawkins,J.,A General History of the Science and Practice of Music. London 1776. 
+
+Helmholtz, H., Die Lehre von den Tonempfindungen ^. Braunschweig 1896. 
+
+Herrmann, W., Über die Klangfarbe einiger Orchesterinstrumente. Diss. Königs- 
+berg. Stuttgart 1908. 
+
+Herv6, M., (Rapports sur l'Exposition universeUe de 1878) La Musique. Paris (1878). 
+
+Hopkins, E. J., und E. F. Rimbault, The Organ. London 1870. 
+
+Journal de Musique historique, theor^tique et pratique, Paris (1764) 1768 — 78. 
+
+Judenkunig, H., Utilis et compendiaria introductio. Viennae 1523. 
+
+Kalkbrenner, A., Willielm Wieprecht. Berlin 1882. 
+
+Kastner, G., Manuel g^n^ral de Musique mihtaire. Paris 1848. 
+
+Kiesewetter, R. G., Die Mu=ik der Araber, Leipzig 1842. 
+
+Kinkeldey, Otto, Orgel und Klavier in der Musik des 16. Jahrhunderts. Leipzig 
+1910. 
+
+Kinsky, Gg., Katalog des Musikhistorischen Musums von Wilhelm Heyer in Cöln, 
+I. Bd. Cöln 1910, 2. Bd. 1912. 
+
+Kircher, Ath., Phonurgia nova. Campinae 1673. 
+
+Kircher, Ath., Musurgia universalis. Romae 1650. 
+
+Kircher, Ath., Neue Hall- und Ton-Kunst. Deutsch von Ag. Cario. Nördlingen 
+1684. 
+
+Knosp, G., Über annamitische Musik. SJ MG VIII. 137 ff. 
+
+Kobrich, J. A., Geig-Fundament. Augsburg 1787. 
+
+Koch, H. Chr., Musikalisches Lexikon, Offenbach 1802. 
+
+Koch-Dommer, Musikalisches Lexikon. Heidelberg 1865. 
+
+
+
+XI 
+
+
+
+ALLGEMEINE INSTRUMENTEN- UND MUSIKWISSENSCHAFTLICHE LITERATUR 
+
+Kraus, AI., Di alcuni Strumenti Musicali della Micronesia e della Melanesia. Archi- 
+vio per l'Antropologia e la Etnologia vol. 17, Firenze 1887. 
+
+Kraus, Alex., La Musique au Japon. 3'' ed. Florence 1880. 
+
+Kuhaö, F. S., Prilog za poviest glasbe juzno-slovjenske. Rad Jugoslavenske 
+Akademise Znanosti i Umjetnosti. U Zagrebu 1877—82. 
+
+Laborde, Benj. de, Essai sur la musique. Paris 1780. 
+
+Levy, Jos., Die Signalinstrumente in den altfranzösischen Texten. Diss. Halle 1910. 
+
+Lichtenthai, Pietro, Dizionario e Bibliografia della Musica, Milano 1826. 
+
+Locher, Carl, Die Orgel-Register, 4. Aufl., Bern 1912. 
+
+Loret, V., Les flütes 6gyptiennes antiques. Journal asiatique 1889. 
+
+Mag. d. Mus. = Magazin der Musik, Hamburg 1783/87, Kopenhagen 1789. 
+
+Mahillon , V., Catalogue descriptif et analytique du Musee instrumental du conserva- 
+toire royal de Musique, 4 tom. Gand. I ^ 1893, II ^ 1909, III ' 1900, IV > 1912. 
+
+Mahillon, Les Instruments de Musique au Musee du Conservatoire royal de Musi- 
+que de Bruxelles. Bnixelles s. a. 
+
+Majer, J. F. B. K., Museum musicum. Nürnberg 1741. 
+
+Mattheson, Joh., Das neueröffnete Orchester. Hamburg 1713. 
+
+Mattheson, J., Der vollkommene Kapellmeister. Hamburg 1739. 
+
+Mendel-Reissmann, Musikalisches Konversations-Lexikon. Berlin 1870 — 83. 
+
+Mersenne, Marin, Harmonie universelle. Paris 1636. 
+
+Mf M ^ Monatshefte für Musikgeschichte. Leipzig 1869— 1905. 
+
+Moule, A. C, Chinese Musical Instruments. Jour. of the North-China Brauch of 
+the Roy. Asia. Society, vol. 39, 1908, p. i ff. 
+
+Mus. Tim. = The Musical Times, London 1844 ff. 
+
+Nef , K., Katalog der Musikinstrumente des historischen Museums. Basel 1906. 
+
+Notes analytiques sur les collections ethnographiques du Mus^e du Congo I'. 
+Bruxelles 1902. 
+
+Notes on Siamese Musical Instruments. London 1885. 
+
+Padelford, Fr. M., Old English Musical Terms. Bonn 1899. 
+
+Paquot, R., La Ceramique musicalc et instrumentale. Paris 1889. 
+
+Pedr eil, Felipe, Emporio cientifico e histörico de organografia musical antigua 
+espanola. Barcelona 1901. 
+
+Pierre, Constant, La facture instrumentale a l'exposition universelle de 1889. 
+Paris 1890. 
+
+Pierre, C, Les Facteurs d'Instrumcnts de Musique. Paris 1893. 
+
+Piggott, F., The Music and Musical Instruments of Japan, a"* ed. Yokohama- 
+London 1909. 
+
+P j et uchov = ntryxoBi, Miix., Hapo^Hue MyauKaJibHue HHCTpyMeimj Myaen C.-ITeTepöyprcKoit 
+KOHcepBaTopiH. CaHKT IlerepGypn. 1884. 
+
+Portman, Andamanese Music. Jour. Asiatic Society N. S. XX, 1888. 
+
+
+
+XII 
+
+
+
+ALLGEMEINE INSTRUMENTEN- UND MUSIKWISSENSCHAFTLICHE LITERATUR 
+
+Praetor! US, Mich., Syntagmatis musici tomus secundus, Wolffenbüttel 1618. Neu- 
+druck von Rob. Eitner, Leipzig 1884. Die Saitenzahlen beziehen sich auf die- 
+sen, die eingeklammerten auf den Originaldruck. 
+
+Privalov =H. IIpHBaJioB-b, MysuKaJibHtie jo^xosue HHcrpy.MeHTU pyccKaro Hapona bt, cbh3h 
+ci cooTB-feTCTByiomHMH HHCTpyMeHTaMH «pyrHxt cTpaHi. 3anHCKH IlMn. PyccK. Apx. 
+OömecTBa VII 2, VIII 2. 
+
+Proc. Mus. Assoc. = Proceedings of the Musical Association. London 1874 ff, 
+
+Revue musicale, Paris 1827 — 35. 
+
+Roda, C, Los Instrumentes Müsicos y las Danzcis (Ilustraciones del Quijote). 
+Madrid 1905. 
+
+Sachs, Curt, Musikgeschichte der Stadt Berlin. Berlin 1908. 
+
+Sachs, Curt, Musik und Oper am Kurbrandenburgischen Hof. Berlin 1910. 
+
+Schelle, Ed., Bericht über die musikalischen Instrumente, im offiziellen Ausstel- 
+lungsbericht der Weltausstellung. Wien 1873. 
+
+Schlesinger, K., The Instruments of the Modern Orchestra and Early Records 
+of the Precursors of the Violin Family. London 19 10. 
+
+Schubert, F. L., Alle gebräuchüchen Musikinstrumente, in alphabetischer Ord- 
+nung. Leipzig s. a. 
+
+Schubert, F. L., Die Blechinstrumente der Musik. 2. Aufl. Leipzig 1883. 
+
+Seier, E., Mittelamerikanische Musikinstrumente. Globus 1899, Nr. 7. 
+
+Shelford, R., An illustrated catalogue of the Ethnographical collection of the 
+Serawak Museum. Part. I: Musical Instruments. Jour. of the Straits Branch 
+of the Royal Asiatic Society 1904. 
+
+S I MG = Sammelbände der Internationalen Musikgesellschaft. Leipzig 1899 ff. 
+
+Speer , Dan., Gnmdrichtiger, kurz, leicnt und nöthiger Unterricht der musikalischen 
+Kunst. Ulm 1687. 
+
+Stumpf, C, Die Anfänge der Musik. Leipzig 1911. 
+
+Sundelin, A., Die Instrumentierung für das Orchester. Berlin 1828. 
+
+Sundelin, A., Die Instrumentierung für sämmtlicheMihtär-Musik-Chöre. Berlin 1828. 
+
+Svanberg,]., Musikhistoriska Museets in Stockholm Instrumentsamüng. Stock- 
+holm 1902. 
+
+Tagore, S. M., Short Notices of Hindu Musical Instruments. Calcutta 1877. 
+
+Tans'ur, W., The Elements of Music displayed. London 1772. 
+
+Teuchert, E., imd E.W. Haupt, Musik-Instrumentenkunde. Leipzig 1910 f. 
+
+Valdrighi, L. F., Musurgiana I. Modena 1879, V. Milano 1881. 
+
+Valdrighi, L. F., Nomocheliurgografia antica e moderna. Modena 1884. 
+
+Vanderstraeten, E., La Musique aux Pays-Bas. Bruxelles 1867 — 88. 
+
+Vf M == Vierteljahrsschrift für Musikwissenschaft. Leipzig 1885 ff. 
+
+Villoteau, Description historique, technique et litteraire des Instruments de 
+Musique des Orientaux, in Description de l'Egypte. Paris 1823. 
+
+
+
+XIII 
+
+
+
+ALLGEMEINE INSTRUMENTEN- UND MUSIKWISSENSCHAFTLICHE LITERATUR 
+
+Virdung, S., Musica getutscht. Basel 1511. 
+
+Walker, J. C, Historical Memoirs of Irish Bards. London 1786. 
+
+Wallaschek, R., Anfänge der Tonkunst. Leipzig 1903. 
+
+Walther, Joh. Gottfr., Musikalisches Lexikon. Leipzig 1732. 
+
+Wasielewski, J. W. v., Geschichte der Instrumentalmusik im 16. Jahrhundert. 
+Berlin 1878. 
+
+Weiss, J., Die musikalischen Instrumente des Alten Testaments. Prag 1895. 
+
+Welcker von Gontershausen, H., Neu eröffnetes Magazin musikalischer Ton- 
+werkzeuge. Frankfurt a. M. 1855. 
+
+Willard, N. A., A Treatise on the Music of Hindoostan, in Tagore's Hindu Music. 
+
+Yantra kosha = Tagore, Sour. Moh., Yantra kosha, Calcutta 1875. 
+
+Zacconi, L., Prattica di Musica. Ven. 1596. 
+
+Za mminer, Fr.. Die Musik und die musikalischen Instrumente. Gießen 1855. 
+
+Zf J = Zeitschrift für Instrumentenbau. Leipzig 1880 ff. 
+
+ZIMG = Zeitschrift der Internationalen Musikgesellschaft. Leipzig 1899 ff. 
+
+
+
+DIE ABGEKÜRZT ZITIERTEN 
+INSTRUMENTEN-SAMMLUNGEN 
+
+Basel, Historisches Museum, 
+
+Bergen, Museum. 
+
+Berlin, Kgl. Sammlung alter Musikinstrumente. 
+
+Berlin, Kgl. Museum für Völkerkunde. 
+
+Bologna, Museo civico (früher im Liceo musicale). 
+
+Brüssel, Musee instrumental du Conservatoire royal de musique. 
+
+Brüssel, Musee du Congo. 
+
+Dublin, National Museum. 
+
+Florenz, Museo etnografico. 
+
+Florenz, Museo del R. Istituto Cherubini. 
+
+Galpin, Rev. F. W., Privatsammlung in Harlow (Essex). 
+
+Heyer, W., Musikhistorisches Museum in Cöln. 
+
+Innsbruck, Ferdinandeum. 
+
+Keil, Alfredo, Privatsammlung in Lissabonn. 
+
+Kopenhagen, Musikhistorisk Museum. 
+
+Kristiania, Norsk Folkemuseum. 
+
+Leiden, Rijks Ethnographisch Museum. 
+
+London, Victoria and Albert Museum. 
+
+London, British Museum. 
+
+Mailand, Museo del Conservatorio. 
+
+Markneukirchen, Gewerbemuseum. 
+
+Modena, Museo civico. 
+
+München, Bairisches Nationalmuseum. 
+
+München, Deutsches Museum. 
+
+New- York, The Metropoütan Museum of Art, Crosby Brown CoUection. 
+
+Oxford, Pitt Rivers Museum. 
+
+Paris, Musee du Conservatoire national de musique. 
+
+Prag, Instrumentensammlung des Konservatoriums. 
+
+Sarawak, Museum, Ethnographical Collection. 
+
+Scheurleer, D. F., Privatsammlung im Haag. 
+
+Stockholm, Musikhistoriska Museum. 
+
+Stockholm, Nordiska Museet. 
+
+Venedig, Museo civico (Casa Correr). 
+
+Verona, Museo civico. 
+
+Washington, United States National Museum, Smithsonian Institution. 
+
+Wien, Instrumentensammlung der Gesellschaft der Musikfreunde. 
+
+Wien, Ambraser Sammlung des K. K. Kunsthistorischen Hofmuseums. 
+
+Zürich, Schweizerisches Landesmuseum. 
+
+
+
+ABKÜRZUNGEN 
+
+DER HÄUFIGSTEN SPRACHEN-, DIALEKT- 
+UND VÖLKERNAMEN 
+
+
+
+abess. 
+
+
+= abess inisch 
+
+
+hind. 
+
+
+= hindostanisch 
+
+
+öst. 
+
+
+= österreichisch 
+
+
+ags. 
+
+
+= angelsächsisch 
+
+
+idg. 
+
+
+= urindogermanisch 
+
+
+pat. 
+
+
+= patagonisch 
+
+
+ahd. 
+
+
+= althochdeutsch 
+
+
+ir. 
+
+
+= irisch 
+
+
+pers. 
+
+
+= persisch 
+
+
+alb. 
+
+
+= albanesisch 
+
+
+isl. 
+
+
+= isländisch 
+
+
+poln. 
+
+
+= polnisch 
+
+
+alg. 
+
+
+= algerisch 
+
+
+it. 
+
+
+= itaüenisch 
+
+
+P(ort). 
+
+
+= portugiesisch 
+
+
+amh. 
+
+
+= amharisch 
+
+
+jap. 
+
+
+= japanisch 
+
+
+rag. 
+
+
+= ragusanisch 
+
+
+and. 
+
+
+= altnordisch 
+
+
+jav. 
+
+
+= javanisch 
+
+
+rät. 
+
+
+= rätoromanisch 
+
+
+arm. 
+
+
+= annamitisch 
+
+
+jüt. 
+
+
+= jütisch 
+
+
+röm. 
+
+
+= römisch 
+
+
+ar. 
+
+
+= arabisch 
+
+
+kab. 
+
+
+= kabylisch 
+
+
+romagn.= romagnolisch 
+
+
+arm. 
+
+
+= armenisch 
+
+
+koftn. 
+
+
+= ka9mirl 
+
+
+rum. 
+
+
+= rumänisch 
+
+
+artnor 
+
+
+. = armorikanisch 
+
+
+kal. 
+
+
+= kalabrisch 
+
+
+rumun 
+
+
+. = rumunisch 
+
+
+asl. 
+
+
+= altslavisch 
+
+
+kamb. 
+
+
+= kamboganisch 
+
+
+russ. 
+
+
+= russisch 
+
+
+äth. 
+
+
+= äthiopisch 
+
+
+käst. 
+
+
+= kastilianisch 
+
+
+ruth. 
+
+
+= ruthenisch 
+
+
+haktr. 
+
+
+= baktrisch 
+
+
+kat. 
+
+
+= katalonisch 
+
+
+sam. 
+
+
+= samojedisch 
+
+
+bask. 
+
+
+= baskisch 
+
+
+kauk. 
+
+
+= kaukasisch 
+
+
+sard. 
+
+
+= sardisch 
+
+
+bau. 
+
+
+= battakisch 
+
+
+kor. 
+
+
+= koreanisch 
+
+
+Schott. 
+
+
+= schottisch 
+
+
+bayr. 
+
+
+= bayrisch 
+
+
+krel. 
+
+
+= kretisch 
+
+
+schw. 
+
+
+= schwedisch 
+
+
+beng. 
+
+
+= bengäll 
+
+
+kroat. 
+
+
+= kroatisch 
+
+
+serb. 
+
+
+= serbisch 
+
+
+birm. 
+
+
+= birmanisch 
+
+
+kurd. 
+
+
+= kurdisch 
+
+
+serbokf 
+
+
+■.= serbokroatisch 
+
+
+born. 
+
+
+^ bomeotisch 
+
+
+lat. 
+
+
+= Lateinisch 
+
+
+sheü. 
+
+
+= shetländisch 
+
+
+bret. 
+
+
+= bretonisch 
+
+
+lett. 
+
+
+= lettisch 
+
+
+Sil. 
+
+
+= sizUianisch 
+
+
+buig. 
+
+
+= bulgarisch 
+
+
+lit. 
+
+
+= litauisch 
+
+
+sink. 
+
+
+= sinhalesisch 
+
+
+chald. 
+
+
+= chaldäisch 
+
+
+lomb. 
+
+
+= lombardisch 
+
+
+skr. 
+
+
+= Sanskrit 
+
+
+chin. 
+
+
+= chinesisch 
+
+
+luz. 
+
+
+= luiatisch 
+
+
+slav. 
+
+
+= slavonisch 
+
+
+c. 
+
+
+= Cechisch 
+
+
+tnad. 
+
+
+= madekassisch 
+
+
+sp. 
+
+
+= spanisch 
+
+
+cer. 
+
+
+= eeremissisch 
+
+
+mal. 
+
+
+= malayisch 
+
+
+spl. 
+
+
+= spätlateinisch 
+
+
+daj. 
+
+
+= dajakisch 
+
+
+mar. 
+
+
+= marokkanisch 
+
+
+steir. 
+
+
+= steirisch 
+
+
+dän. 
+
+
+= dänisch 
+
+
+mej. 
+
+
+= mfcjikanisch 
+
+
+syr. 
+
+
+= syrisch 
+
+
+dial. 
+
+
+= dialektisch 
+
+
+mel. 
+
+
+= melanesisch 
+
+
+syrj. 
+
+
+= syrjänisch 
+
+
+engl. 
+
+
+= englisch 
+
+
+mhd. 
+
+
+= mittelhochdeutsch 
+
+
+syrm. 
+
+
+= syrraisch 
+
+
+estn. 
+
+
+= estnisch 
+
+
+ml. 
+
+
+= mittellateinisch 
+
+
+tat. 
+
+
+= tatarisch 
+
+
+finn. 
+
+
+= finnisch 
+
+
+mnd. 
+
+
+= mittelniederdeutsch 
+
+
+tib. 
+
+
+= tibetisch 
+
+
+Hz). 
+
+
+=; französisch 
+
+
+mnl. 
+
+
+= mittelniederländisch 
+
+
+türk. 
+
+
+= türkisch 
+
+
+fries. 
+
+
+= friesisch 
+
+
+mod. 
+
+
+= modenesisch 
+
+
+ung. 
+
+
+= ungarisch 
+
+
+gael. 
+
+
+= gaelisch 
+
+
+mong 
+
+
+. ^. mongolisch 
+
+
+ven. 
+
+
+= venezianisch 
+
+
+galt. 
+
+
+= gallcgo 
+
+
+ndl. 
+
+
+= niederländisch 
+
+
+nip. 
+
+
+.= nepalisch 
+
+
+gr- 
+
+
+= altgriechisch 
+
+
+nhd. 
+
+
+= neuhochdeutsch 
+
+
+vi. 
+
+
+= vlaemisch 
+
+
+grus. 
+
+
+= grusisch (georgisch) 
+
+
+ngr. 
+
+
+= neugriechisch 
+
+
+wal. 
+
+
+= walisisch 
+
+
+hait. 
+
+
+-= haitisch 
+
+
+norw. 
+
+
+=^ norwegisch 
+
+
+
+
+(kyinrisch) 
+
+
+hebt. 
+
+
+= hebräisch 
+
+
+oss. 
+
+
+= ossetisch 
+
+
+wend. 
+
+
+;= wendisch 
+
+
+
+TRANSKRIPTIONS-SCHLÜSSEL 
+
+
+
+Es ent- 
+sprechen : 
+
+
+C 
+
+
+c 
+
+
+G 
+
+
+V 
+
+s 
+
+
+z 
+
+
+Deutsch 
+
+
+
+
+TSCH 
+
+
+
+
+SCH 
+
+
+
+
+Französisch 
+
+
+
+
+TCH 
+
+
+DJ 
+
+
+CH 
+
+
+J 
+
+
+Enghsch 
+
+
+
+
+CH 
+
+
+J 
+
+
+SH 
+
+
+
+
+Russisch 
+
+
+
+
+H 
+
+
+— 
+
+
+Hl 
+
+
+Jtx, 
+
+
+Arabisch- 
+Persisch 
+
+
+
+
+h 
+
+
+L 
+
+
+• 
+• i 
+
+
+* 
+
+
+Sanskrit 
+
+
+^ 
+
+
+h 
+
+
+J] 
+
+
+^ 
+
+
+
+
+
+Die moderne Transkription des palatalen Zischlauts im Sanskrit — s — wurde hier zu 
+gunsten der älteren — 9 — aufgegeben, um Verwechslungen mit s und § zu vermeiden. 
+
+
+
+XVII 
+
+
+
+A-Flöte, Liebesflöte, eine veraltete, heute 
+m. W. nur noch von W. Heckel in Biebrich ge- 
+baute größere Querflöte in A, mit h als tief- 
+stem Ton, gebräuchlich etwa 1750 — 1820. 
+Der Name .Liebesflöte' ist wohl nur nach 
+Analogie der gleichfalls in^^ stehenden Liebes- 
+oboe gegeben worden. 
+
+Fr. FLUTE D'AMOUR, it. FLAUTO D' AMORE. 
+
+A-Fuß, ein Flötenfuß mit Zusatzklappen 
+bis a hinab. Von Instrumentenbauern, die sich 
+mit ihm befaßt haben, seien genannt Ziegler 
+in Wien, Laussmann in Linz und Evette & 
+Schaeffer in Paris. 
+
+A-Horn, 
+
+
+
+A -Trompete. 
+
+
+
+Notierung: 
+
+
+
+^^^^^^ 
+
+
+
+teg: f^.jtej j^gi 
+
+
+
+Umfang: 
+
+
+
+Mit Ventilen: 
+
+
+
+Notierung: 
+
+
+
+m 
+
+
+
+W' 
+
+
+
+^ 
+
+
+
+m 
+
+
+
+m 
+
+
+
+^ 
+
+
+
+Das A -Hörn wird durch Aufstecken eines Halb- 
+
+tonbogens auf das hohe B-Horn hergcstelk. 
+
+A-Klarinette, eine Klarinette mit weichem 
+
+und schwermütigem Ton ; .ff 
+
+
+
+Umfang: 
+
+
+
+Notierung : 
+
+
+
+Die ungefähre Länge ist 70 cm. 
+
+A-Kornett, ein Ventilkornett in A ; gewon- 
+nen durch das Aufstecken eines Krummbogens 
+auf dasß- Kornett . 
+
+Umfang: 
+
+
+
+Notierung: 
+
+
+
+
+
+Skala: 
+
+
+
+Notierung: 
+
+
+
+|,,,.,JHK'^^ 
+
+
+
+|^ j ."r -r ^ 
+
+
+
+1 
+
+
+
+l yr^fV f i 
+
+
+
+Umfang: 
+
+
+
+Mit Ventilen: 
+
+
+
+
+Notierung: 
+
+
+
+Aaben Pibe, dän. ,Offene Pfeife.' 
+
+Aadschek, nach Kiesewetter ein persisches 
+Streichinstrument. Es dürfte mit Aäek iden- 
+tisch, also ein Tanbür sein. 
+
+Aänireikä, finn. .Griffloch'. 
+
+Aartsciter, ndl. .Erzcister'. 
+
+Aartsluit, ndl. .Erzlaute'. 
+
+Abacus, lat. .Klaviatur'. 
+
+Athanasius Kircher, Musurgia 1650, üb. VI p. II c. I. 
+
+Abafador, port. .Dämpfer' (Klavier). 
+
+Ab-a'-fü, Älaultrommel der Igorroten von 
+Bontoc (Philippinen), ein Liebeswerbeinstru- 
+ment, aus Bambus oder Messing, etwa 8 bis 
+IG cm lang. 
+
+A. E. Jenks, The Bontoc Igorot, Manila 1905, p. 191 f. 
+
+Abam, Abäm, barriai kobe ,(Fell-)Trom- 
+mel' ; vgl. malay. rabana. 
+
+Friederici, Beitr. z. Volk.- u. Sprachenkunde v. Deutsch-Neu* 
+guinea, Her!. 1912. p. 1S3, 199, 216. 
+
+Aben, ein Rohrstück, an einem Ende mit 
+einer Spinneneihaut verschlossen; die Rezi- 
+tatoren der Faft (Frz. Kongo) stecken es in das 
+eine Nasenloch — das andere bekommt das 
+Efam — , um die Stimme näselnder zu machen. 
+
+R' .\velat, La Mus. chez les Pahouins. L'Anthropologie 
+XVI 283. 
+
+Abendair, plur. ibendiiren, schauja ka- 
+byl. ,Schellentrommer ; arab. bandar. 
+
+Huyghe, Dict. Chaouia-ar.-kab.-fr?., Alg. '07, p. 681. 
+
+Abhebestange, die Verbindungsstange zwi- 
+schen Pedal und Dämpfung beim Klavier. 
+
+Engl. D.\MPER ROD, fr. BARRE D'ETOUFFOIR. 
+
+Abhubh s. Abub. 
+
+A-bitin, temne .Trommel'; plur. e-bitift. 
+
+C. F. Schlenker, Engl.-temne Dict., Lond. 1880, p. 114. 
+
+
+
+Sachs 
+
+
+
+ABLEITUNG— ACOCOTL 
+
+
+
+Ableitung eines klingenden Harmonium- 
+registers nennt man die durch einen andern 
+Registerzug einschaltbare Vorrichtung zur 
+Veränderung seiner Klangfarbe. 
+
+Abobas s. Abub. 
+
+Aboo Zeydee viel s. Abu-Said-Geige. 
+
+Abrazadera, span. , Blattschraube ' ; port. 
+abra^adeira. 
+
+Abr6g6, frz. .Regierwerk'. 
+
+Abrege foulant nannten die französischen 
+Orgelbauer das Regierwerk des Rückpositivs. 
+
+Abruzzenoboe, eine in den Abruzzen hei- 
+mische Hirtenschalmei aus Buchs mit ko- 
+nischer Bohrung und Doppelrohr; 7 Griff- 
+löcher auf der Vorder-, ein 8. auf der Rück- 
+seite und I — 6 Stimmlöcher auf dem Schall- 
+stück ; Grundton in der Mitte der eingestriche- 
+nen Oktave; Länge 32 — 35cm. Die Anzahl 
+und Verteilung der Löcher, die Länge, die 
+Tonlage und die Skala weisen unmittelbar auf 
+den arabischen Zamr hin; die Abruzzenoboe 
+vermittelt entwicklungsgeschichtlich zwischen 
+ihm und der europäischen Schalmei. 
+
+Brüssel No. i8i; New- York No. 895. 
+
+Absteller = Nullknopf. 
+
+Abstrakten, Abzüge, sind in der aJten, 
+mechanisch regierten Orgel im Gegensatz zu 
+den Stechern die Hauptgheder des Zugwerks; 
+man versteht darunter senkrecht ziehende, 
+etwa 0,8 cm breite, 0,3 cm dicke Holzstangen, 
+deren unterste durch den kurzen Abstrakten- 
+draht mit der Taste und deren oberste durch 
+den Ventüdraht mit dem entsprechenden 
+Spielventil verbunden ist, so daß beim Nieder- 
+drücken der Taste die Öffnung des Ventils be- 
+wirkt wird. 
+
+Engl. TRACKERS, ndl. ABSTRACTEN, fr. VERGETTES, 
+russ. ABSTRAKTY. — Abbildung bei Orgel 
+
+Abuaq (schauja), plur. v. Büq. 
+
+Abub, Anbub, ist der syrische Name des 
+Gingras; er lebt in dem Worte ,abubajae' auf, 
+mit dem die Römer der Kaiserzeit orienta- 
+lische Aulosbläserinnen bezeichneten. Chald. 
+H212N, gricch. aßcoßai. 
+
+Jacob Levy, Neuhebr. u. cbald. Wb. I, Lpz. 1876, S. 5. — 
+Thesaur. Sjxiac. I, Ox. 1879, p. lof. 
+
+Abu karun, nach Al-Makkari eine altara- 
+bische Trommel. 
+
+Abu-Said-Geige, s. v. a. Rebäb eS-6a'ir, das 
+zur Begleitung der Abu-Said-Romanze ver- 
+wendet wird. 
+
+Abwärtsschlagende Mechanik, oberschlä- 
+gige Mechanik, nennt man diejenige Kla- 
+viermechanik, bei der der Hammeranschlag 
+von oben her erfolgt. Schon im 18. Jh. finden 
+wir zahlreiche Klavierbauer mit diesem Typus 
+(,Pantalon') beschäftigt, der die bestechende 
+Eigenschaft hat, daß der Schlag auf die Saiten 
+
+
+
+gegen den Resonanzboden gerichtet ist, der 
+aber auch eine komphziertere, schwerfälligere 
+Konstruktion verlangt und das Stimmen meist 
+— wie z. B. in der Streicher'schen Form mit 
+ihrer den ganzen Stimmstock und einen Teil 
+der Saiten bedeckenden Tastatur — ungeheuer 
+erschwert. Marius in Paris (1716), Schröter in 
+Nordhausen, Stein in Augsburg, Joh. Gottfr. 
+HUdebrand in Berlin mühen sich ohne rechten 
+Erfolg ab. Auch die Meister des 19. Jhs., 
+Streicher (1823) in Wien und Matth. Müller 
+(1824), Loud in Philadelphia (1827), Pape, 
+Wölffel und Kriegelstein in Paris, Stöcker in 
+Berlin, Greiner in München, ^^■ornum in Lon- 
+don (1842), Mathushek in New Haven (ca. 
+1868) vermögen mit allen geistvollen Kon- 
+struktionen das oberschläg^ge Klavier nicht 
+einzuführen. Ganz neuerdings (1910) hat Dr. 
+Ch. Vincent in London den Kampf wieder 
+aufgenommen. 
+
+Engl.OVERSTRlKING ACTION, ndl. HAMERSLAG AAN DE 
+BOVENZIJDE, fr. MECANISME AU-DESSUS DES CORDES. 
+
+Abzüge, I . die freien Baßsaiten bei den Lau- 
+ten usw., — 2. in der Orgel s. v. a. Abstrakten. 
+
+Accessory stop, engl. ,Bhnder Registerzug'. 
+
+Acciarino, ital. , Triangel'. 
+
+Accoppiamento, ital. .Kopplung'. 
+
+Accordeon, frz. , Ziehharmonika'. 
+
+Accordiere, frz. .Wirbelkasten'. 
+
+Accordo, ital. i. s. v. a. Lirone perfetto. — 
+2. .Mxitur'. 
+
+Accoupl6, frz. .gebunden' (Klavichord), 
+, gekoppelt' (Orgelstimme). 
+
+Accouplement, frz. .Koppelung'. 
+
+Accouplement ä balanciers, frz. ,Wippen- 
+koppel'. 
+
+Accouplement ä fourchettes, frz. ,Gabel- 
+koppel'. 
+
+Accouplement de pedaüer, frz. ,Pedalkopper. 
+
+Acetabula, lat. Becken aus Erz oder Silber 
+in Napf form, wie schon aus der eigentlichen 
+Bedeutung des Namens — , Essiggefäße' — 
+hervorgeht. 
+Suidas s. V. — Isidor v. Sevilla, Orig. seu Etym. libri XX (um 
+
+600}, in 21, II. 
+
+Achordion, ein mechanisches Musikwerk 
+vonCorn. van Oeckelenin Breda (1798 — 1865). 
+
+Achromatisches Hörn, Englisches F- 
+Horn, erf. 1854 in Preßburg von Joh. Riedel, 
+ein W'aldhom in Kornettform mit 4 Ventilen, 
+von denen das letzte ein Kombinationsventil 
+war. Umfang Gj — g". Das Instrument 
+hat keinen Erfolg gehabt. Daß der Name 
+äußerst unglücklich gewählt ist, bedarf keines 
+Wortes. 
+
+Acocotl, mejik. Schalmei, heute einfach 
+,clarin' genannt: eine etwa 3 m lange, nicht 
+ganz regelmäßige, sehr enge Röhre aus dem 
+
+
+
+ACORDEON — AERO-CLAVICORDE 
+
+
+
+trockenen Holz des Acocotl, einer in Mejiko 
+sehr verbreiteten Pflanze, mit Schalltrichter 
+und einem Mundstück, durch das der Bläser 
+die Luft mit großer Anstrengung einzieht. 
+Augenscheinlich enthält das Mundstück eine 
+freischwingende Zunge. 
+
+Sartorius io Cäcilia VII 203. 
+
+Acordeön, span. .Ziehharmonika'. 
+
+Action, engl. .Mechanik', und zwar i . der An- 
+schlagsmechanismus der Tasteninstrumente, — 
+2. der Umstimmungsmechanismus der Harfe. 
+
+Acuta, lat. , Scharf'. 
+
+A6orr, acholi (ob. Nil) ,Königstrommer. 
+
+Johnston, Uganda Protectorate II 929. 
+
+Adabäträm, ewe, Kriegs- und Hinrichtungs- 
+trommel. 
+
+Knüsli,Deutsch-ewe Wb-, Bremen 1892 (Mskr.), p. 333. — Wester- 
+mann, Wb. der Ewe-Spr,, Berlin 1905, I 35, 599. 
+
+Adamädalä, beng., v. ä(Ja ,Weite', und 
+mädalä, .Trommel', eine Trommel von glei- 
+cher Länge und Dicke. 
+
+Adberell, wal. .Doppelflageolett'. 
+
+Adedura. 
+
+,Dulce canno entero sal coo el panderete 
+Coa sonajas de asofar, fasen duice sonete 
+Los organos y disen cbanzones 6 motete: 
+La adedura albardana entre elios se entremete.' 
+Juan Ruiz, Libro de buen amor 
+(2. Viertel 14. Jhs.) 
+
+Cleonard [Discurso histörico sobre el traje 
+de los espanoles etc., R. Acad. de la histo- 
+ria] fand die richtige Spur, als er auf das 
+Arabische zurückging und Adedura von ad- 
+dedar, Paukenschall, ableitete. Leider hat er 
+aber die Spur nicht festgehalten und übersetzt 
+Adedura albardana mit ,Instrumento a modo 
+de chirimia, adomada con flecos de seda' ; Pe- 
+drell läßt die Bedeutung dahingestellt. Die 
+nicht von der Hand zu weisende arabische 
+Wurzel des Wortes Adedura beweist, daß es 
+sich um ein Schlaginstrument vom Typus der 
+Pauke oder der Trommel handeln muß. Der 
+Zusatz .albardana' charakterisiert diese Trom- 
+mel als entweder ein vielfarbiges Instrument 
+oder ein solches der Landstreicher und Gauk- 
+ler. Diese Prämissen aber führen dazu, die 
+Adedura mit der arabischen Darabukke zu 
+identifizieren. Das Wort ,albardana' ist hier 
+in seinem doppelten Sinn berechtigt: einmal 
+ist die Darabukke stets bemalt, dann aber ist 
+sie — wenigstens heute — fast ausschließlich 
+das Instrument der wandernden Gaukler. ,Le 
+daräboukkeh', schreibt Villoteau, ,ne se voit 
+guöre qu'entre les mains des saltimbanques, 
+des Jongleurs ou farceurs de carrefour.' 
+
+Äderchen = Flödel. 
+
+Adharc, gael. irisch ,Hom'. 
+
+Adharcfhogaid, gael. , Signalhorn'. 
+
+Adharcfiaghach, gael. ,Jagdhom'. 
+
+
+
+Adharcaidh Cuil, altirische Sackpfeife. 
+
+O'Connor, Dias, on the Hist. of Ireland. 
+
+Adiaphon, das ,Unverstimmbare', ein 
+Stimmgabelklavier in Pianinoform von Fischer 
+& Fritz in Leipzig (pat. 1882). Umfang F — p ; 
+die tiefsten Gabeln werden durch ihre Ober- 
+oktave verstärkt. Der Hauptfehler des In- 
+struments ist seine überaus geringe Tonstärke. 
+
+Berlin; Kopenhagen Nr. 21. 
+
+Adiaphonon, das ,Unverstimmbare', ein 
+gegen 1818 von dem Uhrmacher Franz Schu- 
+ster in Wien erfundenes Tasteninstrument 
+von sechs Oktaven Umfang mit orgel- oder 
+glasharmonikaähnüchem Klang, dessen Kla- 
+viatur aufrechtstehende Stahlstäbe durch An- 
+reißen zum Tönen brachte. Die zeitgenössische 
+Kritik warf dem Ton Mangel an , Klang, 
+Stärke und Dauer' vor und tadelte ,das Nach- 
+klingen und IneinanderfUeßen'. Schuster er- 
+hielt am 15. Febr. 18 19 ein österreichisches 
+Patent auf sechs Jahre. 
+
+Adjok s. Telarli. 
+
+Adjulonä heißen mehrere Blasinstrumente 
+der Karajä in Brasilien. Das häufigste besteht 
+aus einem 44 — 46 cm langen und etwa 3,5 cm 
+dicken Taquararohr mit seitlichem Mundloch 
+und einem gegen 40 cm langen Kürbisschall- 
+stück; obschon Krause das Instrument als 
+Flöte bezeichnet, ist es eine Trompete. — Ein 
+andres Adjulonä ist aus einem spiralig auf- 
+gewickelten und plattgedrückten Burityblatt 
+hergestellt, das mit einem Bastband zusam- 
+mengehalten und oft mit einer Mittelzunge 
+versehen wird. Das Instrument, etwa 3 cm 
+breit und i — 2,5 cm hoch, gehört, wie das 
+chinesische Kia, am ehesten in die Schalmei- 
+klasse. — .Wolawük adjulonä' oder .Lakü' 
+heißt eine Art Okarina aus einer doppelbäu- 
+chigen Kalebasse, deren quer abgeschnittener 
+kleinerer Bauch die Anblasefläche liefert ; nach 
+der Abbildung scheinen sechs Grifflöcher vor- 
+handen zu sein. 
+
+F. Krause, In den Wildnissen Brasihens, Lpz. 191 1, p. 316. 
+
+Adlerzug, bUnder Orgel-Registerzug des 17. 
+und 18. Jhs., der einen mit den Flügeln 
+schlagenden Adler gegen eine Sonne schweben 
+ließ. 
+
+Adok = Rebana. 
+
+Adufe, span. , Schellentrommel', a. d. arab. 
+
+Adziurane = Adjulonä. 
+
+Ae . . . . s. auch unter A. 
+
+Aelyau, grönländ. Tamburin mit Stiel; 
+nicht das Fell, sondern der Rahmen wird ge- 
+schlagen. 
+
+Aeolus-harp, ndl. ,Aolsharfe'. 
+
+A6ro-clavicorde, nach Bachelet & Dezobry 
+(Dict. gen. des Lettres etc., Paris 1882, I 41) 
+eine Art Clavecin, 1790 von Schell und 
+
+
+
+AEROPHONE — AIDATROMPETE 
+
+
+
+ooo 
+
+
+
+I 
+
+
+
+AGRAFFE 
+
+
+
+Tschirski erfunden, dessen Saiten durch Wind 
+in Schwingung versetzt wurden. Augen- 
+scheinhch handelt es sich um die Schnell'sche 
+Erfindung des Anemochorde. 
+
+Aeorophone, eine Zungenorgel von Christian 
+Dietz (d. J.!). 
+
+Aerophone Instrumente nennt 
+
+der Verfasser die Gesamtheit der- 
+jenigen Instrumente, deren Spiel 
+unmittelbar die Luft in Schwing- 
+ung versetzt. Sie zerfallen in die 
+beiden Klassen derjenigen Ton- 
+■werkzeuge,dieeineBegrenzungdes 
+Luftraums vornehmen, nämlich 
+der in der Praxis als Blasinstru- 
+mente bezeichneten, und derjeni- 
+gen, die auf die unbegrenzte Luft 
+wirken, wie aufsatzlose Zungen, 
+Sirenen. Schwirrhölzer und Peitschenschnüre. 
+
+Aeorophor, ein , Tonbindeapparat' für Blas- 
+instrumente, 191 1 von dem Flötisten Bemh. 
+Samuels in Schwerin erfunden. Der Apparat 
+will das Blasen ohne Abhängigkeit von der 
+Atmung ermöglichen und damit eine künst- 
+lerischere Phrasierung und gleichzeitig eine 
+bedeutende Herabminderung des mensch- 
+lichen Kraftaufwands erreichen. Der Fuß des 
+Spielers tritt einen kleinen Schöpfbalg, dessen 
+Wind durch einen Schlauch und ein kleines 
+Rölirchen neben dem Mundstück in den Mund 
+getrieben wird, so oft und -viel es der Bläser 
+wünscht. Durch ruhiges, stetiges Nasenatmen 
+wird der Mund gegen die Rachenhöhle ge- 
+schlossen, so daß die künstliche Preßluft nur 
+in das Instrument hinein entweichen kann. 
+Es verdient Beachtung, daß die Benutzung 
+des Mundes als Windkammer seit undenk- 
+lichen Zeiten bei den orientalischen Völkern 
+gang und gäbe ist; Schalmeien wie Arghül, 
+Zummära u. dgl. werden so angeblasen. 
+
+Litera tur:Z.f.I.XXXII 5, 46(Ahrens). — D. R.P.Nr. 242807, 
+12. Apr. 1911. 
+
+Afinador, port. .Stimmhammer, Stimmhom'. 
+
+Agada = Zaguf. 
+
+Agadhapala, hind. Schlaginstrument; alt. 
+
+Tagore i. 
+
+Aganga, tamäheq .Trommel'; plur. igan- 
+gaten. 
+
+S. Cid Kaoui, Dict. £ran?,-t.imäheq, Alger 1894, p. 839. 
+
+Agaramut s. Garamut. 
+
+Äghäta, Aghäti,33T^,55rnTriZ". skr., Klap- 
+per'. 
+
+Rigveda 10, 146, 2. — Ath.irvavcda 4, 37, 4. 
+
+Aghkakand iXiXJv-.!, pcrs. ,Schlaginstru- 
+mcntc'. 
+
+Aghiztanbürasi,^_,^ii^_j..^ r=-!,türk.,Maul- 
+trommel'. 
+
+Agkon, äyxotr, griech. .Arm" (Phoinix). 
+
+
+
+V 
+
+
+
+
+Agon s. Agun. 
+
+Agong, ein Schlagbrett mit Resonanz-Va^ 
+liha von den Philippinen, aus 
+einem Bambusinternodium mit 
+längslaufender Schlitzöffnung, 
+über die zwei an den Enden durch 
+Stege gehobene, von der Rohr- 
+oberfläche abgelöste Saiten ge- 
+führt sind ;quer über diesen Saiten 
+liegt ein kleines Rindenstück, das 
+mit zwei Bambusstöcken geschla- 
+gen wird. 
+
+Brüssel Nr. 2108 (.Tambol*); Ncw-York Nr. 
+2606, 2746, 
+
+Agongo, akasele (Togo) .Trom- 
+meln'. 
+
+Agraffen nennt der Klavier- 
+bauer die in der Diskantregion des 
+Stimmstocks sitzenden Schrau- 
+ben, deren Köpfe mit Löchern oder 
+Kerben versehen sind und je 
+einem hindurchgezogenen Saiten- 
+chor als Sattel dienen. 
+
+Engl. STUD, ndl. AGR.A.AF, fr. AGRAFFE, 
+it. AGRAFFA, russ. AGRAFA. 
+
+Agrumbi, s. v. a. Agurembi. 
+
+Agujero, span. .Griffloch'. 
+
+Agun, ein Gong mit Buckel, 
+aus China importiert,alsoein Yin, 
+im Gebrauche der Bagobos in 
+Süd-Mindanao (Phihppinen); da- 
+zu guttaperchaüberzogene Holz- 
+schlägel. 
+
+Ztschr I. Ethn. XVII 24!. 
+
+Agurembi, plur. igurerabien, 
+schauja .Saiteninstrument'; ka- 
+byl. agrembi. 
+
+Huyghe, Dict. cha0uia-ar.-kab.-fr5., Alg, 1907, 
+p, 20. 
+
+Agwel, marokk. Trommel vom 
+Darabukketypus mit flaschen- 
+förmigem Tonkessel und i be- 
+malten Fell, etwa 15 cm hoch 
+und 14 cm im Durchmesser. 
+
+New- York Nr. 424. 
+
+AJiurane = Adjulona. 
+
+Ahenk.e*^^', pers. , Zupfinstru- 
+ment, Laute'. 
+
+Ahovai, span. , Schellenbaum'. 
+
+Ah tu = Hao. 
+
+Aidatrompete nennt man im 
+Anschluß an Verdis Oper eine 
+langgestreckte scharf und glän- 
+zend klingende Fanfarentrompete aida- 
+mit I Ganztonventil in i/ und As, trompete 
+
+Skala : Modell von 
+
+I Q „ m i"— f^— f n Schuster & Co. 
+
+lm —<i — P ' T ' =t .^ in M«rkneu. 
+
+•' . kirctaes 
+
+
+
+
+AIDYE-ALABU-SARANGl 
+
+
+
+Für Orchesterzwecke wird sie auch in kurzer 
+Form gebaut. 
+
+Fr. TROMPETTE THEBAINE, ndl. THEBAANSCHE 
+TROMPET. 
+
+Aidye, lanzettförmiges Schwirrholz der Bo- 
+ror6 (Z. Brasilien). Abb. bei .Schwirrholz'. 
+
+'Ain, ryf^, arab. , Schalloch' {'Ud), eigentl. 
+,Auge';plur. ^^^_f^ 'ayün. 
+
+Mefatib ol ulura (Ende lo. Jhs.). 
+
+Aine, fr. .Zwickel'. 
+
+Air-pump, engl. .Luftpumpe'. 
+
+Aiuton, eine Friktionsharmonika aus Stimm- 
+gabeln, die durch eine Klaviatur gegen einen 
+rotierenden Metallkegel gedrückt wurden, erf . 
+geg. 1789 V. Ch. Clagget in London; Umfang 
+3 — 5 Oktaven. 
+
+Ch. Clagget, Musical Phsnomena, Lond. 1793, in 4^. 
+
+Ajabeba, altspan. Schnabelflöte, vom arab. 
+äabbäba. 
+
+Dulcema 6 ajabeba, el finchado albogöo, 
+CinfoDla 6 baldosa en esta fiesta son . . . 
+
+Juan Ruiz {l. Hälfte 14. Jhs.). 
+
+Ajacaxtli, altmej. Rassel aus einer kugel- 
+gefüllten Kalebasse oder Tonvase mit Griff. 
+
+Ajakli kemän s. Ayäqlikemän. 
+
+Ajoute, frz. .Stimmbogen'. 
+
+Akadankama s. Ndööa. 
+
+Akadu = Susunu. 
+
+A-kalumbe, plur. e-kalumbe, temne 
+.Harfe'. 
+
+C. F. Schlenker, Engl.-Temne Dict. Lond. '80, p. 183. 
+
+Akam [New-York Nr. 3526] s. Ndöfla. 
+
+Akamambo s. Utumambo. 
+
+Akanä, plur. v. Dekanä. 
+
+Akang, armen. .Wirbel'. 
+
+Akärana = Antsiva. 
+
+Akhang, birm. .Mundstück'. 
+
+Akikiri-koto, ein Koto aus hartem Kiri- 
+Holz (Paulovnia imperialis) von YatsuhaSi. 
+
+Ak-köi, korean. .Musikinstrument*. 
+
+Akkord wurde gelegentlich ein Zymbelstern 
+mit abgestimmten Glöckchen oder Klang- 
+stäben genannt. 
+
+Akkordflöte, eine Doppelflöte, deren Loch- 
+disposition ein eigentliches Zweiklangspiel 
+ermöglicht und voraussetzt, im Gegensatz zu 
+denjenigen Doppelflöten, bei denen es auf 
+schwebende Glcichklänge oder auf eine lie- 
+gende zweite Stimme abgesehen ist. 
+
+Fr. FLUTE D'ACCORD, dän. AKKORDFLOJTE. 
+Vgl. Doppelflageolett, Doppelfiöte, Dvojnice. 
+
+Akkordguitarre, eine Guitarre aus der Mitte 
+19. Jhs.. deren Saiten nicht durch die Finger 
+direkt gegriffen, sondern durch einen Ab- 
+straktenmechanismus in dem von der Rück- 
+seite her ausgehöhlten Hals in der Weise ver- 
+kürzt werden, daß eine Reihe von 15 seithch 
+angebrachten Knöpfen beim Niederdruck 
+
+
+
+kleine lederüberzogene Röllchen gegen die 
+Saiten drücken. 
+
+Heyer Nr. 606. 
+
+Akkordion = Ziehharmonika. Der Name 
+wurde zuerst der von Demian und seinen 
+Söhnen in Wien 1829 verbesserten Harmonika 
+gegeben. 
+
+Akkordklarinette s. Doppelklarinette. 
+
+Akkordzither, ein verbreitetes Zitherinstru- 
+ment, das für Leute ohne die geringste musi- 
+kahsche Vorbildung und Begabung bestimmt 
+ist. Es besteht im wesentlichen aus einer ge- 
+wöhnlichen Schlagzither mit einem System 
+von Stegen, durch deren Niederdruck die ak- 
+kordfremden Saiten abgedämpft werden. Er- 
+finder ist Chr. Aug. Gütter in Markneukirchen 
+(letztes Viertel 19. Jhs.). 
+
+Engl. AUTOHARP, fr. CITHARE D'AMATEUR. 
+
+A-konde, plur. e-konde, temne .Fidel' der 
+Susu. 
+
+C. F. Schlenker, Engl.-Temne Dict., Lond. 1880. p. 143. 
+Vgl. Ekende. 
+
+Ak6ra = Antsiva. 
+
+Aktionsgabeln heißen die am Hals der Pe- 
+dalharfe gabelförmig auf kleinen Metallplätt- 
+chen aufsitzenden Stifte, durch deren Drehung 
+die Saiten verkürzt, der Ton also erhöht wird. 
+Sie sind 1789 von S6b. Erard in Paris einge- 
+führt worden. 
+
+Engl. FORKS, fr. FOURCHETTES. 
+
+Akukr3rptophon, erf. von Charles Wheat- 
+stone in London gegen 1822; mechanisches 
+Musikwerk geheimer Konstruktion, das eine 
+weitere Bedeutung nicht erlangt hat. Die 
+Londoner Berichterstatter beschrieben es als 
+einen frei an einem Seil von der Zimmerdecke 
+herabhängenden Kasten in Form einer an- 
+tiken Lyra, aber ohne Saiten, der, aufgezogen 
+in der Art einer Uhr, Orchesterstücke in den 
+charakteristischen Farben der verschiedenen 
+Instrumente hören ließ. 
+
+Akustische 32' Stimmen nennt man solche, 
+die durch die Differenztöne der Verbindung 
+einer 16- und einer 10V3 füßigen Orgelstimme 
+gebildet werden. 
+
+Vgl. Simpliükationssystem 4. 
+
+Akzentkoppel, eine neuerdings von Schlag & 
+Söhne in Schweidnitz (BerUn Philharmonie 
+1888) erfundene Vorrichtung, die Tonstärke 
+bei einem Orgelmanual durch verschiedenen 
+Tastendruck zu verändern. Eine derartige 
+Einrichtung hat bereits S6b. Erard in einem 
+Orgelklavier getroffen, das er für die Königin 
+Marie Antoinette baute und schon vor ihm — 
+gegen 1770 — Andr. Stein in seiner Melodika. 
+
+Aläbu-särangi, .Kürbis-Särangi'. ein Särangl 
+von angeblich sehr altem Typus, der einige 
+Ähnlichkeit mit dem der Violine aufweist, so 
+
+
+
+ALAMIRfi— ALGHÖZA 
+
+
+
+daß die Europäer das Instrument gelegentlich 
+die .indische Violine' nennen. Als Korpus 
+dient eine Kalebasse mit einer Einziehung in 
+der Mitte ; die dünne Holzdecke hat F-Löcher. 
+Auch der Hals mit seiner Schnecke, der Steg 
+und der Saitenhalter sind \dolinähnlich. Eben- 
+so haben die vier Darmsaiten unsere Quinten- 
+stimmung: I Q 1 >V ffl I 
+
+
+
+Außerdem sind 7 — selten 9 
+
+
+
+s^ 
+
+
+
+- Resonanzsaiten 
+
+
+
+vorhanden. Länge 5 2 , größte Breite 20 bis 22 cm. 
+
+Brüssel Nr. 65 ; Paris Nr. 795. — S. M. Tagore, jEkatana or the 
+iDdiaQ Concert p. 8. 
+
+Alamire, port. .Stimmgabel'. 
+
+Aläpini, beng. alte .Kammer'-Vioä mit einer 
+Kalebasse und Piektrum. 
+
+Alät, o*!^!, arab. .Instrumente'. 
+
+Alati, viti .Glocke'. 
+
+Alaude, port. .Laute', v. arab. al'üd. 
+
+Al-barbet s. Barbat. 
+
+Albion, ein zweichöriger Stutzflügel mit 
+Hammeranschlag von oben (Pat. Nr. 9262, 
+15. Febr. 1842). von Rob. Womum in London. 
+
+Albisiphon, eine von Abelardo Albisi in Mai- 
+land 191 1 erfundene Baßflöte in C mit H-Fuß. 
+Das Instrument hat ein zylindrisches Metall- 
+korpus, dessen Oberstttck nach einer kurzen, 
+trompetenartigen Windung mit einer Krücke 
+für das Mundloch abschließt. Dieses sitzt wie 
+bei den Flöten von T. Giorgi und von Eb. 
+Wunnenberg (1888) in der Achse der Röhre; 
+das Albisiphon wird demnach als Langflöte 
+geblasen. Es steht eine Oktave unter der ge- 
+wöhnhchen Großen Flöte. Die Klangwirkung 
+soll außerordentlich schön .sein. 
+
+Z.f.I. XXXI 930 (Altenburg). 
+
+Albogon, altspan. v. albogue .Sackpfeife'. 
+
+Dulcema, ^ ajabeba, el finchado albog6n, 
+Ciafonia € baldosa en esta fiesta son . . . 
+
+Juan Ruiz (i. Hälfte 14. Jhs.). 
+
+Albogue, altspan. v. arab. al boq ; i. Doppel- 
+schalmei. 
+
+. . . con unos roncos albogues de mal jtmtadas caüas. 
+Lope de Vega. 
+Juan Ruiz (Anf. 14. Jhs.). — Saavedra Fajardo. 
+
+— 2. Klapper. 
+
+Albogues son, respondi6 D. Qilijote, unas chapas d 
+modo de candeleros de az6far, que dando una cod otra 
+por lo vacio y hueco, hacen ua son, . . . 
+
+CcTTantcs. 
+
+Alboquea, Albuquea, bask. Schalmei vom 
+Typus des Pibcorn. 
+
+Ale, XjI, arab. , Instrument'. 
+
+Aleane s. Angremut. 
+
+Alende, kibira .Trommel'; s. v. a. Ngoma. 
+
+Jobnston, Uganda Protect. II 948. 
+
+
+
+Alenga, faä .Viehschelle'. 
+
+Largeau, Enc. pah. 622. 
+
+Alexandreorgel, eine amerikanische Orgel 
+mit breiteren und stärkeren Zungen und dop- 
+pelten Windkanälen über ihnen, die den Ton 
+labialpfeifenähnlicher machen, 1874 konstru- 
+iert von Ed. Alexandre in Paris. 
+
+Algaita, plur. algaitu (Haussa). Algaita- 
+su. pl. algaitagi (Fulbe). eine etwa 45 cm 
+lange Schalmei aus Holz mit konischer Boh- 
+rung, mit 5 — 6 Grifflöchern auf der Vorder- 
+seite und mit glockenförmigem SchaUstück; 
+das Doppelrohrblatt sitzt auf einem kleinen 
+Eisen- oder Messingröhrchen . das oben in 
+das Holzkorpus gesteckt ist und mit diesem 
+durch ein loses Band verbunden wird; der 
+Bläser faßt das Rohr nicht mit den Lippen, 
+sondern stützt diese auf eine kleine, an dem 
+Metallröhrchen befestigte Scheibe aus Metall. 
+Holz oder Kürbis ; das Rohr selbst ist aus einem 
+Blatt oder aus Gras verferti
