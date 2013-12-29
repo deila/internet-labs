@@ -2,7 +2,7 @@ var
   vk_members_data = {},
   lastCommentsResponse,
   lastCommentsPage = null,
-  baseURL = 'http://localhost:5000'
+  baseURL = 'http://nameless-escarpment-8036.herokuapp.com/lab4/app/';
 
 function array_unique(ar){
   if (ar.length && typeof ar !== 'string') {
