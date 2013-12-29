@@ -6,5 +6,19 @@
       <li class="{{activeTab['polls']}}"><a href="#/polls">Polls</a></li>
       <li class="{{activeTab['search']}}"><a href="#/search">Search</a></li>
     </ul>
+    <ul class="nav pull-right">
+      <li><a href="{{user.href}}">{{user.first_name}} {{user.last_name}}</a></li>
+      <li><a href="#"><div id="Div1" onclick="doLogin();" style="width: 60px; height:20px; border-style:double">
+<div style="background: url(http://vk.com/images/btns.png) 0px -42px no-repeat; width: 21px; height: 21px" onmouseup="VK.UI._change(1, 0);" onmousedown="VK.UI._change(2, 0);" onmouseout="VK.UI._change(0, 0);" onmouseover="VK.UI._change(1, 0);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Login
+</div></div></a></li>
+<li><a href="#"><div id="Div2" onclick="doLogout();" style="width:50px; height:20px; border-style:double">
+<div style="background: url(Logout.png) 0px; width:50px; height:20px">&nbsp;Logout
+</div>
+</div></a></li>
+    </ul>
   </div>
 </div>
+
+<div id="vk_api_transport"></div>
+
+

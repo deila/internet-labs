@@ -24,5 +24,49 @@
   <script src="js/controllers.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/directives.js"></script>
+
+  <script src="//vk.com/js/common.js"></script>
+  <script src="openapi.js"></script>
+
+  <script src="vkapi.js"></script>
+
+    <div id="vk_api_transport"></div>
+    <script type="text/javascript">
+      window.vkAsyncInit = function() {
+        VK.Auth.getLoginStatus(function(response) {
+          if (response.session) {
+            window.location = baseURL + '?op=main&page=auth';
+          } else {
+            VK.UI.button('vk_login');
+          }
+        });
+        VK.Observer.subscribe('auth.login', function(response) {
+          window.location = baseURL + '#/home/auth';
+        });
+        VK.Observer.subscribe('auth.logout', function() {
+          console.log('logout');
+        });
+        VK.Observer.subscribe('auth.statusChange', function(response) {
+          console.log('statusChange');
+        });
+        VK.Observer.subscribe('auth.sessionChange', function(r) {
+          console.log('sessionChange');
+        });
+
+        VK.init({
+            apiId: 4047183,
+          nameTransportPath: '/xd_receiver.html'
+        });
+        VK.UI.button('vk_login');
+      };
+      setTimeout(function() {
+        var el = document.createElement('script');
+        el.type = 'text/javascript';
+        el.src = '//vk.com/js/api/openapi.js';
+        el.async = true;
+        document.getElementById('vk_api_transport').appendChild(el);
+      }, 0);
+    </script>
+
 </body>
 </html>

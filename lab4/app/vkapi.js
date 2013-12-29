@@ -2,7 +2,7 @@ var
   vk_members_data = {},
   lastCommentsResponse,
   lastCommentsPage = null,
-  baseURL = window.location.protocol + '//' + window.location.hostname + '/';
+  baseURL = 'http://localhost:5000'
 
 function array_unique(ar){
   if (ar.length && typeof ar !== 'string') {

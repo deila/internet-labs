@@ -10,6 +10,9 @@ var activateTab = function($scope, name) {
     $scope.activeTab[x] = ''
   });
   $scope.activeTab[name] = 'active';
+  if (VK.Auth.getSession()) {
+    $scope.user = VK.Auth.getSession().user
+  }
 }
 
 angular.module('myApp.controllers', [])
@@ -44,5 +47,6 @@ angular.module('myApp.controllers', [])
     $scope.gotoComments = function() {
       window.scrollTo(0, $('#comments')[0].offsetTop - 60);
     };
+    VK.Widgets.Comments('comments');
   }]);
 
